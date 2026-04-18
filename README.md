@@ -1,6 +1,6 @@
-# 🚀 AI Resume Analyzer & Job Match System — Intelligent Resume & Job Match Analyzer
+# 🚀 AI Resume Analyzer & Job Match System
 
-CareerLens AI is an AI-powered resume evaluation system designed to simulate how recruiters assess candidates — going beyond keyword matching to provide semantic, insight-driven career feedback.
+AI Resume Analyzer & Job Match System is an AI-powered resume evaluation system designed to simulate how recruiters assess candidates — going beyond keyword matching to provide semantic, insight-driven career feedback.
 
 It leverages Natural Language Processing (NLP) and transformer-based models to analyze resumes, compare them with job descriptions, and generate actionable insights on skill alignment and gaps.
 
