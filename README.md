@@ -86,7 +86,8 @@ streamlit run app_streamlit.py
 
 ## 📸 Demo
 
-Add screenshots of your Streamlit app here (UI + results)
+<img width="1600" height="789" alt="WhatsApp Image 2026-04-18 at 11 55 44 AM" src="https://github.com/user-attachments/assets/d2c2d462-5632-4d9c-9f62-dfc130ac1e45" />
+
 
 ---
 
