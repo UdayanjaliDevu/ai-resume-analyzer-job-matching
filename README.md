@@ -39,6 +39,7 @@ It leverages Natural Language Processing (NLP) and transformer-based models to a
 
 Resume → Parsing → Text Preprocessing → Skill Extraction  
        → Semantic Embeddings → Similarity Analysis → Insights  
+<img width="632" height="1600" alt="WhatsApp Image 2026-04-18 at 11 50 01 AM" src="https://github.com/user-attachments/assets/2d7d701b-6a92-431d-933b-795f91a49318" />
 
 ---
 
